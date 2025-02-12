@@ -1,0 +1,42 @@
+Test with 1 threads completed in 254 ms
+Final Global Counter = 8532
+Total Local Sum = 8532
+Difference = 0
+Total Reads: 0, Total Writes: 5
+----------------------------------------
+Test with 2 threads completed in 267 ms
+Final Global Counter = 15690
+Total Local Sum = 15690
+Difference = 0
+Total Reads: 0, Total Writes: 10
+----------------------------------------
+Test with 4 threads completed in 376 ms
+Final Global Counter = 15075
+Total Local Sum = 16996
+Difference = -1921
+Total Reads: 2, Total Writes: 13
+----------------------------------------
+Test with 8 threads completed in 328 ms
+Final Global Counter = 27441
+Total Local Sum = 29284
+Difference = -1843
+Total Reads: 8, Total Writes: 22
+----------------------------------------
+Test with 16 threads completed in 326 ms
+Final Global Counter = 44628
+Total Local Sum = 53644
+Difference = -9016
+Total Reads: 8, Total Writes: 47
+----------------------------------------
+Test with 32 threads completed in 341 ms
+Final Global Counter = 90305
+Total Local Sum = 108740
+Difference = -18435
+Total Reads: 18, Total Writes: 92
+----------------------------------------
+Test with 64 threads completed in 393 ms
+Final Global Counter = 163583
+Total Local Sum = 190716
+Difference = -27133
+Total Reads: 61, Total Writes: 154
+----------------------------------------
